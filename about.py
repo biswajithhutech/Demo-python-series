@@ -24,19 +24,11 @@ while guess != answer:
 
 
 
-#     print('guess higher')
-#     guess=int(input())
-#     if guess == answer:
-#         print("you guessed it")
-#     else:
-#         print("you did not guess correctly")
-# elif guess>answer:
-#     print("guess lower")
-#     guess = int(input())
-#     if guess == answer:
-#         print("you guessed it")
-#     else:
-#         print("you did not guess correctly")
-# else:
-#     print("you got it")
+    print('guess higher')
+    guess=int(input())
+    if guess == answer:
+        print("you guessed it")
+    else:
+        print("you did not guess correctly")
+
 
